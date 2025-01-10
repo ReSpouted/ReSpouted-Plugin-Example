@@ -1,0 +1,7 @@
+name: ExamplePlugin
+main: com.example.Main
+version: 1.0.0
+
+# Depend on Spout
+depend:
+  - Spout
